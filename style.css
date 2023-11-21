@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    padding: 20px;
+    width: 650px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+input[type=text]{
+    margin-left:150px ;
+}
+
+.select .club{
+    margin-left:30px;
+    margin-top: 10px;
+    width: 170px;    
+}
+
+input[type=radio]{
+    margin-top: 10px;
+    margin-left:80px;
+
+}
+
+.lip{
+    margin-left: 112px;
+    margin-top: 10px;
+
+}
+
+.skill {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 2px;
+margin-left:136px;
+
+}
+
+button {
+margin-top: 20px;
+height: 30px;
+width: 650px;
+background-color: orange;
+border: 2px solid black;
+}
+
+
+.image{
+margin-left:260px;
+}
+.thank{
+    font-size: 50px;
+    text-align: center;
+}
+.club{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.time{
+    text-align: center;
+}
